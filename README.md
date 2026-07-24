@@ -8,5 +8,5 @@
 
 # \## Project Link
 
-# https://github.com/vhineshblaze-tech/OpenAI-API-in-Python
+# https://github.com/vhineshblaze-tech/Pro-Ai
 
