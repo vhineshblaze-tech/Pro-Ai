@@ -1,2 +1,12 @@
-# OpenAI API in Python
-In this project, you will stop using ChatGPT through the browser and start calling OpenAI models directly from Python. The OpenAI API gives you control over things the chat interface does not, like customizing the system message, adjusting temperature, setting token limits, and integrating LLM responses into your own code.
+# \# OpenAI API in Python
+
+# 
+
+# This repository contains a Python script that calls LLMs directly via API using the official OpenAI SDK syntax.
+
+# 
+
+# \## Project Link
+
+# https://github.com/vhineshblaze-tech/OpenAI-API-in-Python
+
